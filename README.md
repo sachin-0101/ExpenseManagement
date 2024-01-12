@@ -1,3 +1,3 @@
 # ExpenseManagement
 
-To maintain the daily expense's created webapi 
+Created webapi to maintain the daily expense's 
